@@ -120,7 +120,7 @@ var speciesData = [
     },
     {
         commonName : "Samson's Fern",
-        scientificName : "Costly goldous",
+        scientificName : "Bobium sampite",
         attributes : [
             { key: "plantType" , values : ["shrub"] },
             { key: "texture", values : ["fluffy", "smooth"] },
