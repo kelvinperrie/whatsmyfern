@@ -1,6 +1,6 @@
 var speciesData = [
     {
-        commonName : "Fluffy Treefern 1",
+        commonName : "Fluffy Treefern",
         scientificName : "Bigios fluffyious",
         aka : ["Fluffy Tree"],
         attributes : [
@@ -14,7 +14,7 @@ var speciesData = [
             { text: "Some details here 3.", references: [1]}
         ],
         similarTo: [
-            { key: "Brownios fluffyious", label: "Brown Fluffy 2" }
+            { key: "Brownios fluffyious", label: "Brown Fluffy" }
         ],
         images : [
             { url : "images/ferns/fluffyTreefern01.jpg" },
@@ -27,7 +27,7 @@ var speciesData = [
         ]
     },
     {
-        commonName : "Brown Fluffy 2",
+        commonName : "Brown Fluffy",
         scientificName : "Brownios fluffyious",
         aka : ["Brown Fluffy Tree"],
         attributes : [
@@ -41,7 +41,7 @@ var speciesData = [
             { text: "Some details here 3.", references: [1]}
         ],
         similarTo: [
-            { key: "Bigios fluffyious", label: "Fluffy Treefern 1" }
+            { key: "Bigios fluffyious", label: "Fluffy Treefern" }
         ],
         images : [
             { url : "images/ferns/brownFluffy01.jpg" },
@@ -54,7 +54,7 @@ var speciesData = [
         ]
     },
     {
-        commonName : "Little Bob 3",
+        commonName : "Little Bob",
         scientificName : "Bobium spikerty",
         attributes : [
             { key: "plantType" , values : ["shrub"] },
@@ -75,7 +75,7 @@ var speciesData = [
         ]
     },
     {
-        commonName : "Little Green Bob 4",
+        commonName : "Little Green Bob",
         scientificName : "Bobium greenlly",
         attributes : [
             { key: "plantType" , values : ["shrub"] },
@@ -97,7 +97,7 @@ var speciesData = [
         ]
     },
     {
-        commonName : "Golden Fern 5",
+        commonName : "Golden Fern",
         scientificName : "Costly goldous",
         attributes : [
             { key: "plantType" , values : ["shrub"] },
@@ -119,7 +119,7 @@ var speciesData = [
         ]
     },
     {
-        commonName : "Samson's Fern 6",
+        commonName : "Samson's Fern",
         scientificName : "Costly goldous",
         attributes : [
             { key: "plantType" , values : ["shrub"] },
