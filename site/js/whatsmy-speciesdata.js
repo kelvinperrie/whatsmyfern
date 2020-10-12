@@ -6,7 +6,7 @@ var speciesData = [
         attributes : [
             { key: "plantType" , values : ["tree"] },
             { key: "texture", values : ["fluffy"] },
-            { key: "colour", values : ["green", "brown"]}
+            { key: "colour", values : ["green"]}
         ],
         details : [
             { text: "Some details here 1."},
@@ -101,7 +101,7 @@ var speciesData = [
         scientificName : "Costly goldous",
         attributes : [
             { key: "plantType" , values : ["shrub"] },
-            { key: "texture", values : ["smooth"] },
+            { key: "texture", values : ["smooth", "fluffy"] },
             { key: "colour", values : ["yellow"]}
         ],
         details : [
@@ -132,8 +132,7 @@ var speciesData = [
             { text: "Some details here 3.", references: [1]}
         ],
         images : [
-            { url : "images/ferns/sampsonsFern01.jpg" },
-            { url : "images/ferns/sampsonsFern02.jpg" }
+            { url : "images/ferns/sampsonsFern01.jpg" }
         ],
         natureWatchLink: "https://inaturalist.nz/taxa/???",
         references : [

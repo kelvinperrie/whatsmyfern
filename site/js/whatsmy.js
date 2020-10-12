@@ -115,6 +115,8 @@ var CrabModel = function(crab) {
     });
     self.currentImageUrlSmall = ko.computed(function() {
         if(self.currentImage()) {
+            // todo - just return normal size image for now, so I don't have to make example small images
+            return self.currentImage().url;
             // i regret formatting the image names this way, and this is going to burn me in the future
             return self.currentImage().url.replace("images/ferns/","images/ferns/small-");
         }
