@@ -6,7 +6,7 @@ var filterData = [
             { key : "shrub", text : "Shrub" }
         ],
         question : "What size is the plant, tree or shrub?",
-        helpText: "Help text for the question qould go here."
+        helpText: "Help text for the question could go here."
     },
     {
         key : "texture",
@@ -17,7 +17,7 @@ var filterData = [
             { key : "spikey", text : "Spikey" }
         ],
         question : "What do the leaves feel like?",
-        helpText: "Help text for the question qould go here."
+        helpText: "Help text for the question could go here."
     },
     {
         key : "colour",
@@ -27,6 +27,6 @@ var filterData = [
             { key : "yellow", text : "Yellow?!?" }
         ],
         question : "What colour are the leaves?",
-        helpText: "Help text for the question qould go here."
+        helpText: "Help text for the question could go here."
     }
 ]
